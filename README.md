@@ -11,7 +11,8 @@ A high-quality, reusable Jetpack Compose Button Library for Android, supporting 
 - **Material 3 & Dark Theme**: Automatically adapts to your app's theme.
 
 ---
-[https://github.com/Vashu78/BMNVButton/blob/master/Screenshot_20260322_192343.png]
+<a href="https://github.com/Vashu78/BMNVButton/blob/master/Screenshot_20260322_192343.png"><img src="https://i.imgur.com](https://github.com/Vashu78/BMNVButton/blob/master/Screenshot_20260322_192343.png" alt="Image preview"></a>
+
 [https://github.com/Vashu78/BMNVButton/blob/master/Screen_recording_20260322_192648.webm]
 ## Installation
 
