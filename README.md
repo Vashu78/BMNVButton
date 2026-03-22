@@ -44,7 +44,7 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.Vashu78:BMNVButton:1.0.0")
+    implementation("com.github.Vashu78:BMNVButton:1.1")
 }
 ```
 *(Replace `Vashu78` with your actual GitHub username)*
