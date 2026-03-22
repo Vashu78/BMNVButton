@@ -11,7 +11,8 @@ A high-quality, reusable Jetpack Compose Button Library for Android, supporting 
 - **Material 3 & Dark Theme**: Automatically adapts to your app's theme.
 
 ---
-
+[https://github.com/Vashu78/BMNVButton/blob/master/Screenshot_20260322_192343.png]
+[https://github.com/Vashu78/BMNVButton/blob/master/Screen_recording_20260322_192648.webm]
 ## Installation
 
 ### 1. Add the JitPack repository to your `settings.gradle.kts`:
@@ -31,10 +32,10 @@ dependencyResolutionManagement {
 
 ```kotlin
 dependencies {
-    implementation("com.github.YOUR_GITHUB_USERNAME:BMNVButton:1.0.0")
+    implementation("com.github.Vashu78:BMNVButton:1.0.0")
 }
 ```
-*(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username)*
+*(Replace `Vashu78` with your actual GitHub username)*
 
 ---
 
